@@ -1,0 +1,50 @@
+# Visual Studio and MSVC temporary and build outputs
+.vs/
+Debug/
+Release/
+x64/
+x86/
+build/
+bin/
+lib/
+*.VC.db
+*.opendb
+*.ipch
+*.aps
+*.ncb
+*.suo
+*.user
+*.tlog
+*.idb
+*.pdb
+*.obj
+*.ilk
+*.exp
+*.exe
+*.dll
+*.lib
+
+# CMake outputs
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+
+# Python virtual environments & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Operating system / Editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
